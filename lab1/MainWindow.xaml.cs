@@ -25,7 +25,9 @@ namespace lab1
 
         Random rnd = new Random();
 
+        //проверка на текущуюю фигуру
         int isTriangle = 0;
+        
         public MainWindow()
         {
             InitializeComponent();
